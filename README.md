@@ -5,7 +5,7 @@
 
 <!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthersoftwaredev&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
+<!-- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthersoftwaredev&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------| -->
  
 <!-- | Stats | Languages |
