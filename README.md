@@ -5,8 +5,8 @@
 
 <!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthersoftwaredev&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------| -->
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthersoftwaredev&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
  
 <!-- | Stats | Languages |
 |-------|-----------|
@@ -20,7 +20,7 @@
 | [![Women in Software Dev](https://avatars.githubusercontent.com/u/188832671?s=200&v=4)](https://github.com/orgs/WomenInSoftwareDev) | <h3>**Women in Software Dev**</h3> Empowering women in software development & engineering through visibility, resources, and collaboration. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![TechShowcase](https://avatars.githubusercontent.com/u/170303974?s=200&v=4)](https://github.com/TechShowcaseDev) | <h3>**CodeSpotlight**</h3> Highlighting and celebrating individuals and projects in tech. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • AnalogJS |
 | [![TechOpenSolve](https://raw.githubusercontent.com/esthersoftwaredev/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API|
-| [![HashBlogWithAngular](https://raw.githubusercontent.com/esthersoftwaredev/images/refs/heads/main/hashblog-withangular-logo.jpg)](https://github.com/HashBlogWithAngular) | <h3>**HashBlog with Angular**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG | 
+| [![HashBlogWithAngular](https://raw.githubusercontent.com/esthersoftwaredev/images/refs/heads/main/hashnode-withangular-logo.jpg)](https://github.com/HashnodeWithAngular) | <h3>**Hashnode with Angular**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG | 
 
 <!-- | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | <h3>**WomenInTech**</h3> Community-driven project promoting women in technology. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI | -->
 
