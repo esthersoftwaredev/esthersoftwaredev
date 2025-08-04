@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Estee
-- 📫 How to reach me - [@esthersoftwaredev](https://github.com/esthersoftwaredev)
+- 📫 How to reach me - [@esteecodes](https://github.com/esteecodes)
 
 - this is only my secondary GitHub account which I need for other work engagements
 
