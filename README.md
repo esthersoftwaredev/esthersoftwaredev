@@ -1,4 +1,4 @@
-## 👋  Hi, I’m Esther White aka Estee aka EsteeCodes
+## 👋  Hi, I’m Esther White aka Estee aka EstherSoftwareDev, EsteeCodes
 
 > ⚠️ **Important Notice**
 >
