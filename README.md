@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Anabel White,
-previously Esther White aka Estee aka EstherSoftwareDev, EsteeCodes | 
-אסתר קול דסקלוב
+### previously Esther White aka Estee aka EstherSoftwareDev, EsteeCodes | אסתר קול דסקלוב
+
 
 > ⚠️ **Important Notice**
 >
@@ -10,7 +10,8 @@ previously Esther White aka Estee aka EstherSoftwareDev, EsteeCodes |
 > 
 > Any activity under that username is no longer related to my work or identity.
 >
-> My last employment as a software developer was between the months of May and June 2026 and that has assured me that the tech field is not for me especially not when working from Sofia, Bulgaria.
+
+## My last employment as a software developer, which was between May and June 2026, assured me that the tech field is not for me - especially not when working from Sofia, Bulgaria.
 
 ### 📌 Official notice - [esteecodes.com](https://esteecodes.com)
 
