@@ -1,4 +1,6 @@
-## 👋  Hi, I’m Esther White aka Estee aka EstherSoftwareDev, EsteeCodes
+## 👋  Hi, I’m Anabel White,
+previously Esther White aka Estee aka EstherSoftwareDev, EsteeCodes | 
+אסתר קול דסקלוב
 
 > ⚠️ **Important Notice**
 >
@@ -7,6 +9,8 @@
 > The GitHub username `esteecodes` has been released and is used by someone **not associated with me**.
 > 
 > Any activity under that username is no longer related to my work or identity.
+>
+> My last employment as a software developer was between the months of May and June 2026 and that has assured me that the tech field is not for me especially not when working from Sofia, Bulgaria.
 
 ### 📌 Official notice - [esteecodes.com](https://esteecodes.com)
 
